@@ -2,4 +2,5 @@
 #logs files
 logs/*.log
 # Ignored files *.pyc, *.pyo, *.pyd
-*.py[cod]
+*.py[cod
+*.doc[x]]
